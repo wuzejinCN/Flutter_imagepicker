@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Image Picker Demo',
-      home: MyHomePage(title: 'Image Picker Example'),
+      home: MyHomePage(title: 'Image Picker Example22'),
     );
   }
 }
